@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root {
+  --teal: #00bcd4;
+  --teal-dark: #0097a7;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background: #fff;
+  color: #222;
+}
