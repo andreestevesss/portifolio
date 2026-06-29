@@ -3,7 +3,7 @@ export default function About() {
     { label: "Name", value: "Andre Esteves" },
     { label: "Location", value: "Oakland, CA" },
     { label: "Languages", value: "English, Portuguese" },
-    { label: "Email", value: "andre@8tentacles.dev" },
+    { label: "Email", value: "andremartinsss@hotmail.com" },
     { label: "Availability", value: "Open to work" },
   ];
 
@@ -41,7 +41,7 @@ export default function About() {
           </p>
           <div className="flex gap-3">
             <a
-              href="mailto:andre@8tentacles.dev"
+              href="mailto:andremartinsss@hotmail.com"
               className="flex items-center gap-2 px-5 py-2 text-sm font-medium text-white"
               style={{ background: "#00bcd4" }}
             >
